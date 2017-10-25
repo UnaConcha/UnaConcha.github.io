@@ -1,12 +1,14 @@
 ## Samantha Wunschel <UnaConcha>
+Hi there! This is a page to help users get in touch with me. It also can serve as a digital resume and a link for my various social medias. 
+Basically, if you're looking to know more about my experience coding, you're in the right place.
 
-You can use the [editor on GitHub](https://github.com/UnaConcha/UnaConcha.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
+I am a third year Honors student at Bridgewater State University studying for a Bachelor of Science in Criminal Justice and Computer Science. I have about a year of experience in coding so far. I've learned Python and am in the process of learning Java. I am also somewhat familiar with html and Javascript. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have been working on learning more Javascript in my free time using [Free Code Camp](https://freecodecamp.org). 
 
-### Markdown
+For information about my education and work history, head on over to [my LinkdIn](www.linkedin.com/in/samantha-wunschel-750576130) profile any time. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
