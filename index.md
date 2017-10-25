@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Samantha Wunschel <UnaConcha>
 
 You can use the [editor on GitHub](https://github.com/UnaConcha/UnaConcha.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
