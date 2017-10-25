@@ -1,8 +1,6 @@
 ## Samantha Wunschel <UnaConcha>
-
-You can use the [editor on GitHub](https://github.com/UnaConcha/UnaConcha.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a page to help users get in touch with me. It also can serve as a digital resume and a link for my various social medias. 
+Basically, if you're looking to know more about my experience coding, you're in the right place.
 
 ### Markdown
 
