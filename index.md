@@ -7,7 +7,7 @@ I am a third year Honors student at Bridgewater State University studying for a 
 
 I have been working on learning more Javascript in my free time using [Free Code Camp](https://freecodecamp.org). 
 
-For information about my education and work history, head on over to [my LinkdIn](www.linkedin.com/in/samantha-wunschel-750576130) profile any time. 
+For information about my education and work history, head on over to [my LinkdIn](https://www.linkedin.com/in/samantha-wunschel-750576130/) profile any time. 
 
 
 ```markdown
